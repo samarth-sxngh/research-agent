@@ -1,0 +1,38 @@
+# NotebookLM - Python Dependencies
+# Generated from pyproject.toml (requires Python >= 3.12)
+
+# Core web framework
+streamlit>=1.45.0
+
+# LLM & AI
+openai>=1.0.0
+crewai>=1.6.1
+
+# Document processing
+pymupdf>=1.27.1
+
+# Embeddings & vector database
+fastembed>=0.7.4
+pymilvus>=2.6.9
+
+# Audio processing & transcription
+assemblyai>=0.54.1
+soundfile>=0.13.1
+yt-dlp>=2026.3.3
+
+# API Backend
+fastapi>=0.100.0
+python-multipart>=0.0.9
+uvicorn>=0.23.0
+
+# Web scraping
+firecrawl>=4.18.1
+beautifulsoup4>=4.12.3
+playwright
+
+# Memory layer
+zep-cloud>=3.18.0
+zep-crewai>=1.1.1
+
+# Utilities
+python-dotenv>=1.2.2
